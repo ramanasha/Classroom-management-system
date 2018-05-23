@@ -1,4 +1,4 @@
 ClassManagement
 ===============
 
-A classroom management system I wrote in PHP
+A classroom management system in PHP
